@@ -1,8 +1,8 @@
 {
   "producto": "la-esquina",
-  "version": 2,
+  "version": 3,
   "exe": "CajaLaEsquina.exe",
-  "sha256": "c16f3084f42eb76d006c55e7e26536ab1ee94c00031b3cfeed6000baf07ca6f2",
-  "notas": "Sin comandos ocultos. Dueños y soporte en Configuración. QR de Mercado Pago. Pedidos automáticos de Pedí Directo y link manual. Nombres del bar.",
-  "tag": "v2"
+  "sha256": "9cc853554af1d33f94ebd1b408371c36207e0e99a491d394df030abd180854a3",
+  "notas": "Turno por hora. Botones ordenados con Más. QR para mozos y tablet. Reimpresión pedida al dueño. Arreglo de medianoche.",
+  "tag": "v3"
 }
