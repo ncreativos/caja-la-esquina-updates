@@ -1,8 +1,8 @@
 {
   "producto": "la-esquina",
-  "version": 3,
+  "version": 4,
   "exe": "CajaLaEsquina.exe",
-  "sha256": "9cc853554af1d33f94ebd1b408371c36207e0e99a491d394df030abd180854a3",
-  "notas": "Turno por hora. Botones ordenados con Más. QR para mozos y tablet. Reimpresión pedida al dueño. Arreglo de medianoche.",
-  "tag": "v3"
+  "sha256": "bb8a3554723752b0b6b4bee6c1c9662c9e8860295f3b73af33863bdd163fa2ab",
+  "notas": "Pedidos de Pedí Directo: ahora avisa con cartel y sonido cuando llega uno con la cola vacía, y los retiros aparecen en Delivery como Para retirar.",
+  "tag": "v4"
 }
