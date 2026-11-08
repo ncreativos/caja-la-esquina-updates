@@ -1,8 +1,8 @@
 {
   "producto": "la-esquina",
-  "version": 5,
+  "version": 6,
   "exe": "CajaLaEsquina.exe",
-  "sha256": "0e8557cb977160dfc26e1a7b30c667cbceea02d3ea03c715a70d92343d2d8ebd",
-  "notas": "Notas por producto en la comanda (celular, mesa y mostrador), nombre de quien atendió, ticket del repartidor con QR al WhatsApp del cliente, buscador de productos y botón Probar en Dueños y soporte.",
-  "tag": "v5"
+  "sha256": "4f12adcd7a1974d088af28638cc9337495efdbf62af071af2a48848cc56307d5",
+  "notas": "Pantallas chicas: en el mostrador con delivery ya se ven los productos y los botones de cobrar; letra y botones más compactos en pantallas de notebook; Guardar siempre a la vista en Comanda, Alertas y Promos; Delivery y Stock aprovechan todo el alto.",
+  "tag": "v6"
 }
