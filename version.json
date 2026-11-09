@@ -1,8 +1,8 @@
 {
   "producto": "la-esquina",
-  "version": 6,
+  "version": 7,
   "exe": "CajaLaEsquina.exe",
-  "sha256": "4f12adcd7a1974d088af28638cc9337495efdbf62af071af2a48848cc56307d5",
-  "notas": "Pantallas chicas: en el mostrador con delivery ya se ven los productos y los botones de cobrar; letra y botones más compactos en pantallas de notebook; Guardar siempre a la vista en Comanda, Alertas y Promos; Delivery y Stock aprovechan todo el alto.",
-  "tag": "v6"
+  "sha256": "c45fae8db1ab36dbaf0103b54f36b4a15673bb6f4240090c793d32ab4e8d3547",
+  "notas": "Factura electrónica (ARCA): tilde «Facturar» en cada cobro y nota de crédito automática al anular. Viene apagada: se configura en Configuración › Factura electrónica.",
+  "tag": "v7"
 }
